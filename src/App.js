@@ -1,8 +1,8 @@
 import Form from "./Form";
 import List from "./List";
 import Buttons from "./Buttons";
-import ContainerHeader from "./Container";
-import ContainerSubHeader from "./Container"
+import ContainerHeader from "./ContainerHeader";
+import ContainerSubHeader from "./ContainerSubHeader";
 
 const tasks = [
    { id: 1, content: "lalala", done: false },
