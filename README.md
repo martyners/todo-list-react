@@ -1,3 +1,27 @@
+# To do list in React
+
+## Demo
+https://martyners.github.io/todo-list-react
+
+## General info
+> A simple to-do list, where you can add new tasks, mark as done and delete.
+
+
+## Languages and technologies
+- HTML
+- CSS (Flex, Grid. Media queries)
+- JS ES6+
+- BEM
+- React.js
+- Babel
+- Creat-React-App
+- Styled Components
+
+## Status
+Project is in progress.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

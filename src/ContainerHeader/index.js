@@ -1,0 +1,8 @@
+import "./style.css"
+
+const ContainerHeader = ({ title}) => (
+        <h1 className="container__header">{title}</h1>
+);
+
+
+export default ContainerHeader;
